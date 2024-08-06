@@ -90,7 +90,7 @@ Default Value: if the parameter is missing or invalid, the command is ignored
 
 </br>
 
-#### デモ1 - 特定のエラーを通知
+#### デモ - 特定のエラーを通知
 
 ```
 ^XA
